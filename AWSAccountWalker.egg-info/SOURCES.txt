@@ -1,0 +1,8 @@
+setup.py
+AWSAccountWalker/__init__.py
+AWSAccountWalker/aws_account_walker.py
+AWSAccountWalker.egg-info/PKG-INFO
+AWSAccountWalker.egg-info/SOURCES.txt
+AWSAccountWalker.egg-info/dependency_links.txt
+AWSAccountWalker.egg-info/requires.txt
+AWSAccountWalker.egg-info/top_level.txt

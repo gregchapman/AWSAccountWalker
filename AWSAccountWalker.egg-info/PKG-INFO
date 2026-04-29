@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: AWSAccountWalker
+Version: 0.1.1
+Summary: Python package for iterating AWS accounts and us regions via multithreading
+Home-page: UNKNOWN
+Author: Greg Chapman
+Author-email: gregmousetrax.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: Multithread AWS Organizations account visiting
+Platform: UNKNOWN
